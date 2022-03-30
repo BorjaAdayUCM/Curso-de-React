@@ -1,0 +1,29 @@
+import React, {useState} from "react";
+import AddCategory from './components/AddCategory.js'
+import GifGrid from './components/GifGrid.js';
+
+const GifExpertApp = ({defaultCategories = []}) => {
+
+    const [categories, setCategories] = useState(defaultCategories)
+
+    return (
+        <>
+            <h2>GifExpertApp</h2>
+            <AddCategory setCategories = {setCategories}/>
+            <hr />
+
+            <ol>
+                {
+                    categories.map(category => (
+                        <GifGrid 
+                            key = {category}
+                            category={category}
+                        />
+                    ))
+                }
+            </ol>
+        </>
+    )
+}
+
+export default GifExpertApp;
