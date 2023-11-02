@@ -1,0 +1,21 @@
+[submodule "01-intro-react"]
+	path = 01-intro-react
+	url = https://github.com/BorjaAdayUCM/01-intro-react
+[submodule "02-intro-javascript"]
+	path = 02-intro-javascript
+	url = https://github.com/BorjaAdayUCM/02-intro-javascript
+[submodule "03-counter-app-cra"]
+	path = 03-counter-app-cra
+	url = https://github.com/BorjaAdayUCM/03-counter-app-cra
+[submodule "03-counter-app-vite"]
+	path = 03-counter-app-vite
+	url = https://github.com/BorjaAdayUCM/03-counter-app-vite
+[submodule "04-gif-expert-app-cra"]
+	path = 04-gif-expert-app-cra
+	url = https://github.com/BorjaAdayUCM/04-gif-expert-app-cra
+[submodule "04-gif-expert-app-vite"]
+	path = 04-gif-expert-app-vite
+	url = https://github.com/BorjaAdayUCM/04-gif-expert-app-vite
+[submodule "05-hook-app-cra"]
+	path = 05-hook-app-cra
+	url = https://github.com/BorjaAdayUCM/05-hook-app-cra
