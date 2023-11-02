@@ -19,3 +19,6 @@
 [submodule "05-hook-app-cra"]
 	path = 05-hook-app-cra
 	url = https://github.com/BorjaAdayUCM/05-hook-app-cra
+[submodule "05-hook-app-vite"]
+	path = 05-hook-app-vite
+	url = https://github.com/BorjaAdayUCM/05-hook-app-vite.git
