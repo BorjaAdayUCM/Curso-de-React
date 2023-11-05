@@ -22,3 +22,6 @@
 [submodule "05-hook-app-vite"]
 	path = 05-hook-app-vite
 	url = https://github.com/BorjaAdayUCM/05-hook-app-vite.git
+[submodule "06-custom-hooks"]
+	path = 06-custom-hooks
+	url = https://github.com/BorjaAdayUCM/06-custom-hooks.git
