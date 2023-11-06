@@ -25,3 +25,6 @@
 [submodule "06-custom-hooks"]
 	path = 06-custom-hooks
 	url = https://github.com/BorjaAdayUCM/06-custom-hooks.git
+[submodule "07-heroes-spa"]
+	path = 07-heroes-spa
+	url = https://github.com/BorjaAdayUCM/07-heroes-spa.git
